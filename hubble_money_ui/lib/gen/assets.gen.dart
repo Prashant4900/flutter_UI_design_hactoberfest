@@ -16,6 +16,7 @@ class Assets {
   static const AssetGenImage croma = AssetGenImage('assets/croma.png');
   static const AssetGenImage logo = AssetGenImage('assets/logo.jpg');
   static const AssetGenImage myntra = AssetGenImage('assets/myntra.png');
+  static const AssetGenImage phone = AssetGenImage('assets/phone.png');
   static const AssetGenImage spring = AssetGenImage('assets/spring.png');
 }
 
