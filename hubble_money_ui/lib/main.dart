@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hubble_money_ui/onboarding/onboarding.dart';
+import 'package:hubble_money_ui/dashboard/dashboard.dart';
 
 void main() {
   runApp(const MyApp());
@@ -61,7 +61,7 @@ class MyApp extends StatelessWidget {
           ),
         ),
       ),
-      home: const OnBoardingScreen(),
+      home: const DashboardScreen(),
     );
   }
 }

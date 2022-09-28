@@ -12,10 +12,14 @@ import 'package:flutter/widgets.dart';
 class Assets {
   Assets._();
 
+  static const AssetGenImage apple = AssetGenImage('assets/apple.jpg');
   static const AssetGenImage bluestone = AssetGenImage('assets/bluestone.png');
   static const AssetGenImage croma = AssetGenImage('assets/croma.png');
   static const AssetGenImage logo = AssetGenImage('assets/logo.jpg');
+  static const AssetGenImage message = AssetGenImage('assets/message.png');
+  static const AssetGenImage money = AssetGenImage('assets/money.png');
   static const AssetGenImage myntra = AssetGenImage('assets/myntra.png');
+  static const AssetGenImage nykaa = AssetGenImage('assets/nykaa.jpg');
   static const AssetGenImage phone = AssetGenImage('assets/phone.png');
   static const AssetGenImage spring = AssetGenImage('assets/spring.png');
 }
